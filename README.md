@@ -1,3 +1,7 @@
 # CSC154_MatthewSalstrom
 
-Hellow Branch2!
+
+Hello Branch2!
+
+Welcome Branch1
+
